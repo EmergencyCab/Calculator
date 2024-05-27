@@ -20,8 +20,8 @@ This is a simple calculator application implemented using C++ and the Qt framewo
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/EmergencyCab/simple-calculator.git
-    cd simple-calculator
+    git clone https://github.com/EmergencyCab/Calculator.git
+    cd Calculator
     ```
 
 2. Open the project in Qt Creator or build it using the command line:
